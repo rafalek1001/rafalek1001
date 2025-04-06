@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafał Kubala</h1>
 <h3 align="center">A passionate frontend and backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Rock Paper Scissors Multiplayer](https://github.com/rafalek1001/rock-paper-scissors-multiplayer)
+- 🔭 I’m currently working on [Lost Island Game](https://github.com/rafalek1001/lost-island-game)
 
 - 📫 How to reach me **rafalkubala97@gmail.com**
 
